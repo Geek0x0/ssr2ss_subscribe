@@ -65,38 +65,8 @@ def index():
     )
     return response
 
-def DetectBrowserAccess(UserAgent):
-    forbidden = False
-    banBrowser = ["MicroMessenger", "Wechat", "QQ", "Safari", "Chrome"]
-    for bb in banBrowser:
-        if UserAgent.find(bb) >= 0:
-            forbidden = True
-            break
-    return forbidden
-
-def DetectPlatform(platform):
-    forbidden = False
-    banPlatform = ["linux", "windows", "macos", "android"]
-    for bp in banPlatform:
-        if platform == bp:
-            forbidden = True
-            break
-    return forbidden
-
-def AccessDetect():
-    isBrowser = DetectBrowserAccess(request.user_agent.string)
-    banPlatform = DetectPlatform(request.user_agent.platform)
-    if isBrowser or banPlatform:
-        return True
-
 @app.route('/CordCloud', methods=['GET'])
 def create_cordcloud_ss_subscription():
-    if AccessDetect():
-        response = app.response_class(
-            response = "",
-            status = 500,
-        )
-        return response
     return handle_ssr2ss(ssr_subscribe['CordCloud'])
     
 if __name__ == "__main__":
