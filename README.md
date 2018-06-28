@@ -10,7 +10,7 @@
 
 增加公共转换服务：
 目前仅支持两家机场 CordCloud 和 SSRCloud  
-如何使用：  
+如何使用：(请注意大小写)  
 CordCloud: 订阅地址为 http://convertsubscribe.applinzi.com/CordCloud/your_link_key  
 SSRCloud: 订阅地址为 http://convertsubscribe.applinzi.com/SSRCloud/your_link_key  
 通过以上订阅地址进行订阅后得到SSR 转 SS 订阅  
@@ -18,3 +18,7 @@ SSRCloud: 订阅地址为 http://convertsubscribe.applinzi.com/SSRCloud/your_lin
 如何获取link_key：  
 CordCloud：订阅连接为 https://www.cordcloud.me/link/SSNNCCDD12EEFF?mu=0 则 Key SSNNCCDD12EEFF  
 SSRCloud：订阅连接为 https://mikucloud.ml/link/AABBCCDD12EEFF?mu=0 则 Key 为AABBCCDD12EEFF
+
+
+如果您觉得好用，可以打赏我🤣  
+![image](http://github.com/caydyn-skd/ssr2ss_subscribe/raw/master/IMG_1509.jpg)
