@@ -21,4 +21,4 @@ SSRCloud：订阅连接为 https://mikucloud.ml/link/AABBCCDD12EEFF?mu=0 则 Key
 
 
 如果您觉得好用，可以打赏我🤣  
-![image](http://github.com/caydyn-skd/ssr2ss_subscribe/raw/master/IMG_1509.jpg)
+![image](http://github.com/caydyn-skd/ssr2ss_subscribe/raw/master/0.png)
