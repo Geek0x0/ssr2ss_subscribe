@@ -8,7 +8,7 @@
 2. 运行 python2 app.py  
 3. 在软件中添加订阅 http://your_ip/CordCloud  
 
-增加公共转换服务：(convert.py)
+增加公共转换服务：(convert.py)  
 目前仅支持两家机场 CordCloud 和 SSRCloud  
 如何使用：(请注意大小写)  
 CordCloud: 订阅地址为 http://convertsubscribe.applinzi.com/CordCloud/your_link_key  
