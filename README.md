@@ -11,8 +11,8 @@
 新增加公共转换服务：(convert.py)  
 目前仅支持两家机场 CordCloud 和 SSRCloud  
 如何使用：(请注意大小写)  
-CordCloud: 订阅地址为 http://convertsubscribe.applinzi.com/CordCloud/your_link_key  
-SSRCloud: 订阅地址为 http://convertsubscribe.applinzi.com/SSRCloud/your_link_key  
+CordCloud: 订阅地址为 http://convertsubscribe.applinzi.com/CordCloud/your_link_key  (your_link_key出处请看下边说明)  
+SSRCloud: 订阅地址为 http://convertsubscribe.applinzi.com/SSRCloud/your_link_key  (your_link_key出处请看下边说明)   
 通过以上订阅地址进行订阅后得到SSR 转 SS 订阅  
 
 如何获取link_key：  
