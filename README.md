@@ -15,7 +15,7 @@ CordCloud：
 SSRCloud：  
     若订阅连接为 https://mikucloud.ml/link/AABBCCDD12EEFF?mu=0 则 Key 为 AABBCCDD12EEFF
     
-目前仅支持两家机场 **CordCloud** 和 **SSRCloud**  
+目前仅支持两家机场 **CordCloud** 和 **SSRCloud**(理论上支持所有提供兼容模式的机场，如有其他需要请联系)  
 如何使用：(**请注意大小写**)  
 CordCloud: 订阅地址为 http://convertsubscribe.applinzi.com/CordCloud/your_link_key  
 SSRCloud: 订阅地址为 http://convertsubscribe.applinzi.com/SSRCloud/your_link_key  
