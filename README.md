@@ -8,7 +8,7 @@
 2. 运行 python2 app.py  
 3. 在软件中添加订阅 http://your_ip/CordCloud  
 
-**新增加公共转换服务：(convert.py)**  
+**新增加公共转换服务：**  
 如何获取link_key：  
 CordCloud：  
     若订阅连接为 https://www.cordcloud.me/link/SSNNCCDD12EEFF?mu=0 则 Key 为 SSNNCCDD12EEFF  
